@@ -14,7 +14,7 @@ The detection at a budding stage is imminent because that can save millions of p
 
 # Installation
 <ul>
-  <li>Download Data_Analysis.ipynb </li>
+  <li>Download Diabetes_Prediciton_using_ML.ipynb </li>
   <li>Download the dataset in your working directory. </li>
   <li>Run this notebook in colab</li>
  </ul>
