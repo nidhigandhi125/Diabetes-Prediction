@@ -86,6 +86,7 @@ The confusion matrix evaluates the performance of the models by dividing the sam
   <img src="https://github.com/nidhigandhi125/Diabetes-Prediction/blob/main/results.jpg" alt="Results" width="400" align="center"/>
 </div>
 
-Due to the reduced features and substitution of zero values with the mean of each attribute assisted in giving better training to the model which helped in achieving better outcomes. Based on the top four features, the models were developed that could easily reach up to 80%. Although there is quite a room to improve the accuracy and precision of the model that would benefit people in knowing if they are susceptible to diabetes early in life. 
-Diabetes must be detected in its early stages if it is to be treated. This paper proposed a machine learning method for predicting diabetes levels. The method may also assist researchers in developing an accurate and useful tool that will reach physicians' tables to assist them in making better decisions about illness state.
+# Conclusion
+Due to the reduced features and substitution of zero values with the mean of each attribute assisted in giving better training to the model which helped in achieving better outcomes. Based on the top four features, the models were developed that could easily reach up to 80%. K Nearest Neigbour achieved highest accuracy amosgst all with 81.81%. Although there is quite a room to improve the accuracy and precision of the model that would benefit people in knowing if they are susceptible to diabetes early in life. 
+Diabetes must be detected in its early stages if it is to be treated properly and to curtail its side effects. This paper proposed a machine learning method for predicting diabetes levels. The method may also assist researchers in developing an accurate and useful tool that will reach physicians' tables to assist them in making better decisions about their diabetes state.
  
