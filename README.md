@@ -9,6 +9,7 @@ The detection at a budding stage is imminent because that can save millions of p
   <li>Dataset</li>
   <li>Methodology</li>
   <li>Resuls</li>
+  <li>Conclusion</li>
 </ol>
 
 # Installation
